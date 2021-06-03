@@ -1,0 +1,62 @@
+.cauculator-style {
+  padding: 15px;
+  margin: 15px;
+  border: 3px solid rgb(4, 1, 20);
+  border-radius: 10px;
+  background-color:dimgray;
+  max-height: 530px;
+  width: 300px;
+}
+
+body {
+  background-color: darkgreen;
+}
+
+button {
+  width: 75px;
+  height: 75px;
+  border: 1px solid slategray;
+  border-radius: 3px;
+}
+
+button:hover {
+  cursor: pointer;
+  opacity: .9;
+}
+
+.sig-button {
+  background-color: orange;
+  width: 75px;
+  height: 75px;
+  border: 1px solid slategray;
+  border-radius: 3px;
+}
+
+.fun-button {
+  background-color: rgb(90, 12, 155);
+  width: 75px;
+  height: 75px;
+  border: 1px solid slategray;
+  border-radius: 3px;
+  color: white;
+}
+
+.equal-button {
+  background-color: orange;
+  width: 150px;
+  height: 75px;
+  border: 1px solid slategray;
+  border-radius: 3px;
+}
+
+.result {
+  padding: 15px;
+  margin-left: 2.5px;
+  margin-right: 2.5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 2px solid silver;
+  border-radius: 10px;
+  background-color: whitesmoke;
+  overflow-x: hidden;
+}
